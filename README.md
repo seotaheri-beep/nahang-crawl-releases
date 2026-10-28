@@ -19,6 +19,7 @@ A desktop technical SEO crawler with Persian and English main controls. The beta
 - [فارسی: نصب، خزش، گزارش و بازیابی](docs/QUICK_START.fa.md)
 - [English: installation, crawling, export and recovery](docs/QUICK_START.en.md)
 - [سناریوی آزمایش بتا / Beta checklist](docs/BETA_TESTING.md)
+- [نتیجه و حدود پذیرش / Acceptance evidence](BETA_ACCEPTANCE.md)
 - [محدودیت‌ها / Known limitations](docs/KNOWN_LIMITATIONS.md)
 - [حریم خصوصی فارسی](docs/PRIVACY.fa.md) · [Privacy in English](docs/PRIVACY.en.md)
 - [پشتیبانی و گزارش اشکال / Support](docs/SUPPORT.md)
