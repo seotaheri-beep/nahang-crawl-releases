@@ -20,3 +20,7 @@ The release downloads are the same accepted artifact bytes, not a rebuild after 
 Independent beta user feedback is pending. See [the test checklist](docs/BETA_TESTING.md), [known limitations](docs/KNOWN_LIMITATIONS.md) and [support](docs/SUPPORT.md). No private profiles, tokens or raw user crawls are included in this report.
 
 گزارش پذیرش: آزمون‌های خودکار و نصب/ارتقای Windows موفق‌اند؛ بازخورد کاربران بیرونی هنوز دریافت نشده است. بسته بدون امضا و runtime آلفاست؛ حدود محیط آزمایش و مراحل بازتولید در راهنما آمده‌اند.
+
+## Public delivery check
+
+The published prerelease is accessible without a GitHub account. All six asset sizes and SHA-256 digests match accepted bytes. Native beta IPC reports the beta as current; native alpha.138 IPC offers the beta, downloads its 480508416-byte Setup from GitHub and verifies SHA-256 `7d72f5641eec32bacd12191dcb291921ab3be5d75d1b144e7d18db13873d036d`. The downloaded installer was not run on the maintainer’s computer.
